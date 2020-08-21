@@ -1,0 +1,24 @@
+*{
+padding:0px;
+margin :0px;
+background-color: rgb(187, 238, 238);
+}
+
+.count{
+  text-align: center;
+  margin:auto;
+  font-size: 100px;
+}
+
+button{
+  padding:10px;
+  font-size: 40px;
+  border:2px solid red;
+  border-radius:10px;
+  background-color: rgb(121, 209, 49);
+}
+ button:hover{
+   background-color: rgb(243, 121, 34);
+   border:3px solid green;
+   border-radius:10px;
+ }
